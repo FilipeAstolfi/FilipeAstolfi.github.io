@@ -43,3 +43,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJM54DB5"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+**9. Screenshots comprovando funcionamento**
+Depois de criar a implementação da coleta para GA4, testei todos os eventos e comprovei o funcionamento com
+screenshots da DevTools. Todos as imagens estão na pasta /testes_evidencias
