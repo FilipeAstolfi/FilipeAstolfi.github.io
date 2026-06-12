@@ -60,7 +60,7 @@
     // A princípio, o código se baseava no data-id para capturar o nome do card,
     // mas dependendo do elemento clicado dentro do botão (imagem ou texto),
     // o parâmetro não seria reconhecido. Em função disso, utilizei o método
-    // closest() para garantir que sempre subimos até o .card-montadoras que tem o data-id,
+    // closest() para garantir que sempre suba até o .card-montadoras que tem o data-id,
     // independentemente de onde o clique ocorreu.
 
     var cards = document.querySelectorAll('.card-montadoras');
